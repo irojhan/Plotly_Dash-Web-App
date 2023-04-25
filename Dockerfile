@@ -12,4 +12,4 @@ RUN pip install -r requirements.txt
 
 EXPOSE 8080
 
-CMD python Dse6000.py
+CMD python Dse6000_project.py
