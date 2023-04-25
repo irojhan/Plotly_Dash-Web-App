@@ -1,0 +1,10 @@
+dash
+pandas
+plotly
+matplotlib
+numpy
+bs4
+scikit-learn
+requests
+xgboost
+time
