@@ -1,3 +1,1 @@
-gcloud builds submit --tag gcr.io/dse6000-project/DSE6000-Project  --project=dse6000-project
-
-gcloud run deploy --image gcr.io/dse6000-project/DSE6000-Project --platform managed  --project=dse6000-project --allow-unauthenticated
+Designed and deployed a Plotly Dash-based analytics dashboard on GCP, integrating EDA and predictive analytics. Enhanced data visualization and forecasting for business intelligence applications.
